@@ -8,6 +8,5 @@
 ![C++](https://img.shields.io/badge/c++-%235f98cf.svg?style=for-the-badge&logo=cpp&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-%230078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=#white)
 
-
-
-
+### Profile Visits:
+![Visitor Count](https://profile-counter.glitch.me/{lawrencegumabon}/count.svg)
