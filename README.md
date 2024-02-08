@@ -9,15 +9,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,php,github,vscode,figma,ps)](https://skillicons.dev)
 
 ## Contact me :
-<div>
-  <a href="https://www.linkedin.com/in/lawrence-gumabon-7018b7255/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
-  </a>
-
-  <a href="mailto:lwrncgmbn@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
-  </a>
-</div>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lawrence-gumabon-7018b7255/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lwrncgmbn@gmail.com)
 
 -----------------------------------------------------------------------------
 ![Visitor Count](https://profile-counter.glitch.me/{lawrencegumabon}/count.svg)
