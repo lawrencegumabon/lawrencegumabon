@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,php,github,vscode,figma,ps)](https://skillicons.dev)
 
 ## Contact me :
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/lawrence-gumabon-7018b7255/))
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lawrence-gumabon-7018b7255/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lwrncgmbn@gmail.com)
 
 -----------------------------------------------------------------------------
