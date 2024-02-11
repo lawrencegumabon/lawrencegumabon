@@ -2,7 +2,7 @@
 # Hello! I'm Lawrence Gumabon ✌
 
 
-💻 I'm love making websites.
+💻 I love making websites.
 <br />
 
 ## Skills & Tools : 
