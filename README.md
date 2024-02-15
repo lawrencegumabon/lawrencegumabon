@@ -1,5 +1,5 @@
 [//]: ![Banner](https://github.com/lawrencegumabon/lawrencegumabon/blob/main/assets/banner.png)
-# Hello! I'm Lawrence Gumabon ✌
+# Hello! I'm ![Lawrence Gumabon](https://lwrncgmbn.github.io/portfolio/)✌
 
 
 💻 I love making websites.
