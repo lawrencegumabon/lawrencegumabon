@@ -13,7 +13,7 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lwrncgmbn@gmail.com)
 
 -----------------------------------------------------------------------------
-[//]: <![Visitor Count](https://profile-counter.glitch.me/{lawrencegumabon}/count.svg)>
+![Visitor Count](https://profile-counter.glitch.me/{lawrencegumabon}/count.svg)
 
 
 [//]: <![](https://komarev.com/ghpvc/?username=lawrencegumabon)>
