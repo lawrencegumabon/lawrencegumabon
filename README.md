@@ -9,7 +9,7 @@
 - 📫 How to reach me **lwrncgmbn@gmail.com**
 
 ## Skills & Tools : 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,php,github,vscode,figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,php,github,vscode,figma,ps)](https://skillicons.dev)
 
 ## Connect with me :
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lawrence-gumabon-7018b7255/)
