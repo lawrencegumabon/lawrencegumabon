@@ -1,4 +1,4 @@
- # Hello! I'm Lawrence Gumabon👋  
+ # Hello! I'm Lawrence Gumabon👋   
 
  <!-- # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&random=false&width=800&lines=Hello!+I'm+Lawrence+Gumabon%F0%9F%91%8B)](https://git.io/typing-svg) --> 
 
