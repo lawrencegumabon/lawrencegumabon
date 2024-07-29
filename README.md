@@ -8,7 +8,7 @@
 - 💻 All of my projects are available at [https://lwrncgmbn.github.io/portfolio/](https://lwrncgmbn.github.io/portfolio/)
 <!-- - 📫 How to reach me **lwrncgmbn@gmail.com** -->
 
-## Skills & Tools : 
+## Skills & Tools :  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,php,laravel,github,vscode,figma,ps)](https://skillicons.dev) 
 
 ## Connect with me :
