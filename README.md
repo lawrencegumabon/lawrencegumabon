@@ -12,6 +12,7 @@
 
 -----------------------------------------------------------------------------
 
+[![GitHub Streak](https://streak-stats.demolab.com/user=lwrncgmbn&theme=dark)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lwrncgmbn&theme=dark)](https://git.io/streak-stats)
 
 
