@@ -12,5 +12,7 @@
 
 -----------------------------------------------------------------------------
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/user=lwrncgmbn&theme=dark)](https://git.io/streak-stats)
+
 ![Visitor Count](https://profile-counter.glitch.me/{lawrencegumabon}/count.svg)
 
